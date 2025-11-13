@@ -1,0 +1,14 @@
+name: future_aggregate
+description: A library for waiting on multiple futures, returning a record with results.
+version: 1.0.0
+repository: https://github.com/DIG-/dart-future-aggregate
+topics: 
+  - future
+  - async
+  - concurrency
+
+environment:
+  sdk: ^3.4.0
+
+dependencies:
+  # none
